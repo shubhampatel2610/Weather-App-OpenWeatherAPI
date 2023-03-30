@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-color: #D8E9A8;
+    color: #191A19;
+}
+
+header{
+    background-color: #4E9F3D;
+}
+
+header h1{
+    letter-spacing: 3px;
+    padding: 5px 0;
+    font-size: 3rem;
+}
+
+form{
+    padding: 100px 0;
+    font-size: 2rem;
+}
+
+form input{
+    font-size: 2rem;
+    width: 300px;
+    padding: 0 10px;
+}
+
+form button{
+    margin-top: 100px;
+    padding: 5px 25px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+}
+
+footer{
+    background-color: #4E9F3D;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p{
+    padding: 20px 0;
+}
